@@ -1,6 +1,6 @@
 import random
 
-sList = [20, 100, 400]
+sList = [20, 100, 400, 1000]
 answer = []
 for i in sList:
     temp = []
